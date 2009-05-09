@@ -1,0 +1,79 @@
+#main{float:left; width:380px; margin:0 0 20px}
+#shortnews{float:right; width:375px; margin-right:10px}
+
+#main1{ float:left;width:340px;margin:0 10px 20px 10px;}
+#shortnews1{float:right;width:340px;margin-right:0px;}
+
+
+#leftsidebar{float:left; width:185px; margin:10px 15px 20px 0px; padding:0px}
+#explanation{padding:8px; border:1px solid #edede8; color:#666; font-size:8pt; line-height:18px; margin-top:0px; margin-bottom:16px; background:#f7f7f2}
+#search{background-color:#e8f4ff; padding:10px 2px 2px 2px}
+.box{margin:0 0 0 0; position:relative; padding-left:20px; padding-right:15px}
+b.cn{position:absolute; height:10px; width:10px; margin:0; padding:0; background:url(../images/white.gif) no-repeat; line-height:1px; font-size:1px}
+
+b.tl{top:-1px; left:-1px; background-position:top left}
+b.tr{top:-1px; right:-1px; background-position:top right}
+b.bl{bottom:-1px; left:-1px; background-position bottom left}
+b.br{bottom:-1px; right:-1px; background-position:bottom right}
+
+table.classi td{border-bottom:1px solid #cdcdc5; border-collapse:collapse;}
+table.classi{border:none; border:0px solid #cdcdc5; background:#fff; margin-top:10px; border-top:1px solid #cecece}
+table.classi tbody tr td{padding:5px 10px; color:#222}
+table.classi tbody tr:hover{background:#FFF url(../images/tr_bck.gif) repeat}
+table.classi tbody tr:hover td{color:#454545}
+table.classi a:link{color:#000;}
+table.classi a:visited{color:#225793}
+table.classi a:hover{color:#119; text-decoration:underline}
+table.classi a:active{color:#036}
+table.classi tbody tr.pagerclass td{text-decoration:underline;padding:5px 5px; color:#222; border:none}
+
+input.submit{padding:.2em; margin-right:2px; font-weight:700}
+input.texte{padding:.2em; margin-right:2px; font-weight:700}
+
+.banner{background:#F5EDEB;margin: 0px 10px 0px 0px;padding:0px 5px 5px 5px;border: #E2CECF 1px solid;}
+.banner span{margin:0px;padding:0px;}
+.banner a{color:blue;text-decoration:underline;}
+
+table.classi_pnd td{border-bottom:1px solid #F7D9E8;border-collapse:collapse;}
+/*table.classi_pnd{border:none;background:#fff;margin-top:0px;border-top:1px solid #FFCFEB;}*/
+table.classi_pnd tbody tr td{padding:5px 1px;color:#E3007D;}
+/*table.classi1 tbody tr:hover{background:#FFF url(../images/tr_bck.gif) repeat;}*/
+table.classi_pnd tbody tr:hover td{color:#E3007D;}
+table.classi_pnd  a:link{color:#E3007D;}
+table.classi_pnd  a:visited{color:#E3007D;}
+table.classi_pnd  a:hover{color:#E3007D;text-decoration:underline;}
+table.classi_pnd  a:active{color:#E3007D;}
+table.classi_pnd tbody tr.pagerclass td{padding:5px 5px;color:#E3007D;border:none}
+table.classi_pnd{background-color:#FFF; }
+/*table.classi_pnd{border:none;}*/
+
+
+#search_pnd{background-color:#FCEFF6;padding:10px 2px 2px 2px;border:1px solid #E1017D;}
+#search{background-color:#e8f4ff; padding:10px 2px 2px 2px}
+
+table.classi_heart td{border-bottom:1px solid #FFF; border-collapse:collapse; font:small/1.5 "Tahoma",Helvetica,sans-serif}
+table.classi_heart{border:none; border:1px solid #FCEFF6;margin-top:10px;}
+table.classi_heart tbody tr td{padding:2px 10px; color:#FFF;border:none;border-bottom:solid 1px #FFF; }
+/*table.classi_heart tbody tr:hover{background-image:url(../images/heartshape.gif);}*/
+table.classi_heart tbody tr:hover td{color:#FFF;border:none;}
+table.classi_heart a:link{color:#FFF;}
+table.classi_heart a:visited{color:#FFF}
+table.classi_heart a:hover{color:#FFF; text-decoration:underline}
+table.classi_heart a:active{color:#FFF}
+table.classi_heart{border:none; }
+/*table.classi_heart{background-image:url(../images/heartshape.gif);background-repeat:no-repeat;}*/
+table.classi_heart tbody tr.pagerclass td{border-top:none;text-decoration:none;padding:5px 1px 0px 12px; color:#FFF; border:none}
+
+
+
+table.classi_clear td{border-bottom:1px solid #F7D9E8;border-collapse:collapse;}
+table.classi_clear tbody tr td{padding:5px 1px;color:#FFF;}
+table.classi_clear tbody tr:hover td{color:#FFF;}
+table.classi_clear  a:link{color:#FFF;}
+table.classi_clear  a:visited{color:#FFF;}
+table.classi_clear  a:hover{color:#FFF;text-decoration:underline;}
+table.classi_clear  a:active{color:#FFF;}
+table.classi_clear tbody tr.pagerclass td{padding:5px 5px;color:#FFF;border:none}
+table.classi_clear{background-color:#4BA1D2; }
+
+#search_clear{background-color:#4BA1D2;padding:0px 2px 2px 0px;border:1px solid #7F9DB9;}
