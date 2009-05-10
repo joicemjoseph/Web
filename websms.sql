@@ -233,37 +233,7 @@ CREATE TABLE `sms` (
 --
 
 INSERT INTO `sms` (`sms`, `sms_to`, `id`, `message`) VALUES
-('402,1', '9846164641', 66, 'xvxcvxcvxcvxcv'),
-('402,2', '9846164641,9567105676', 67, 'dgvxfgbdfgd'),
-('406', '9846164641,9567105676', 68, ''),
-('406', '9846164641,9567105676', 69, ''),
-('402,1', '9567105676', 70, 'jjjjjj'),
-('402,2', '9846164641,9567105676', 71, 'Q-read techno'),
-('413', '9846164641,9567105676', 72, 'On JUNE 2010 Calicut will wake up with an Happy news!!..'),
-('402,3', '9846164641,9567105676,9645473301', 73, 'hello anas'),
-('412', '9567105676', 74, 'hello dear how are you?5555555555555555555555555555555555 tt5y5 555ye5y5 5e5y5ey5ery5ey5eryery'),
-('412', '9846164641', 76, 'hai'),
-('412', '9846164641', 77, 'hai Boss!'),
-('412', '9846164641', 78, 'hi hi hi'),
-('412', '9846164641', 79, 'hi dear'),
-('412', '9846164641', 80, 'ji'),
-('412', '9846164641', 81, 'hy'),
-('402,4', '9846164641,9567105676,9645473301,9388448349', 82, 'just for Testing'),
-('402,1', '9846164641', 83, 'Testing by Team Q-read techno Calicut'),
-('402,1', '9846164641', 85, 'on JUNE 2010 Calicut will wake up with an HAPPY News!!! - "a MIRACLE team of Professionals in the HEART of Calicut city...!!!! '),
-('402,1', '9846164641', 86, 'on JUNE 2010 Calicut will wake up with an HAPPY News!!! - "a MIRACLE team of Professionals in the HEART of Calicut city...!!!! '),
-('402,1', '9846164641', 88, 'Vacancy for the post of PHP Programmer in Q-read techno Calicut, Qualification:BTech or MCA, Experience: 1 year. Forward your RESUME to qreadtechno@gmail.com '),
-('402,1', '9846164641,9846164641', 97, 'hi fine'),
-('402,2', '9846164641,9037886766', 98, 'hai Team Q-read .....'),
-('', '9567105676,9645473301,9388448349', 100, ''),
-('', '9846164641', 101, ''),
-('', '9846164641', 105, ''),
-('', '9846164641,9037886766', 106, ''),
-('', '9846164641,9037886766', 107, ''),
-('', '9567105676,9645473301,9388448349', 108, ''),
-('', '9846164641', 109, ''),
-('', '9999999990', 111, ''),
-('', '9999999990', 112, '');
+('402,1', '9847012345', 66, 'xvxcvxcvxcvxcv');
 
 -- --------------------------------------------------------
 
@@ -311,35 +281,7 @@ CREATE TABLE `subscriber` (
 --
 
 INSERT INTO `subscriber` (`subscriber_name`, `mobile_no`, `group_name`, `username`, `id`) VALUES
-('sivakumar', '9846722822', 'topmost', 'shafeer', 4),
-('suhas', '8678568568', 'testabiz', 'abhil', 6),
-('gafoor', '9567105676', 'nexegen', 'jani', 10),
-('rakesh', '568568568', 'illustris', 'jani', 12),
-('jijo jose', '987667890', 'Testabiz', 'jani', 14),
-('shibil o', '9777777', 'Testabiz', 'jani', 15),
-('sathu', '999', 'topmost', 'shafeer', 16),
-('Gafoor', '9567105676', 'IOSS', 'jani', 18),
-('Anas', '9645473301', 'IOSS', 'jani', 20),
-('justin', '9388448349', 'IOSS', 'jani', 21),
-('shijin', '9846164641', 'nexegen', 'jani', 32),
-('faheem', '9846164641', 'illustris', 'jani', 33),
-('fayiz', '9846164641', 'Testabiz', 'jani', 34),
-('Vibhat', '98989898', 'Orange', 'shafeer', 35),
-('Janeesh', '9846164641', 'Black Pearls', 'jani', 36),
-('Jagadheesh', '90909090', 'black pearls', 'subin', 39),
-('Rijesh', '9090900', 'black pearls', 'subin', 40),
-('Sumesh', '987654321', 'black pearls', 'anoop', 41),
-('Janeesh K', '9846164641', 'Q-read', 'jani', 44),
-('Biju Thoamas', '9037886766', 'Q-read', 'jani', 45),
-('Jamsheer', '9111111111', 'NIT', 'manu', 54),
-('Adarsh', '9222222222', 'NIT', 'manu', 55),
-('luttu', '9098989898', 'MEA', 'jamshi', 56),
-('vibhat vs', '9999999990', 'aravally', 'jani', 57),
-('janeesh k', '999999999999', 'illustris', 'jani', 69),
-('Jithesh', '9090909099', 'RANGOLI', 'admin', 72),
-('manjulal', '1111111111', 'nexegen', 'admin', 73),
-('Neel Prasad', '0987654321', 'INDIA', 'bharat', 74),
-('praveen', '7676767667', 'RAIN VALLEY', 'abhinav', 75);
+('sivakumar', '9847012345', 'topmost', 'shafeer', 4);
 
 -- --------------------------------------------------------
 
